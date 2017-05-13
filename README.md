@@ -6,6 +6,7 @@ The workshop contained in this repo is a format for running a two-day design wor
 
 * [Workshop](./workshop.md)
 * [Materials](./materials.md)
+* [Timetable](./timeline.md)
 * [Facilitator's Guide to Human-Centred Design](http://www.plusacumen.org/courses/facilitator%E2%80%99s-guide-human-centered-design)
 * [Google Drive folder](https://drive.google.com/drive/folders/0B24Sdkg-P6MnVktDOURlVEtFLTA) (internal resource)
 * [Google Slides presentation](https://docs.google.com/presentation/d/1pXw-1476S-CM776Kh3TAlHqUmA79AS3XezpHm9BECWY/edit?ts=591183e5#slide=id.g1f44df5493_0_198) (internal resource)
